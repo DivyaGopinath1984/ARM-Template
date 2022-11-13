@@ -11,7 +11,7 @@
   "parameters": {
     "serverName": {
       "type": "string",
-      "defaultValue": "testdemoserver123 ,
+      "defaultValue": "testdemoserver123" ,
       "metadata": {
         "description": "Server Name for Azure database for PostgreSQL"
       }
@@ -87,7 +87,7 @@
     },
     "location": {
       "type": "string",
-      "defaultValue": "[resourceGroup().location]",
+      "defaultValue": "east us",
       "metadata": {
         "description": "Location for all resources."
       }
