@@ -11,6 +11,7 @@
   "parameters": {
     "serverName": {
       "type": "string",
+      "defaultValue": "testdemoserver123 ,
       "metadata": {
         "description": "Server Name for Azure database for PostgreSQL"
       }
