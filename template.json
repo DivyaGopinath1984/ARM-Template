@@ -26,7 +26,7 @@
     },
     "administratorLoginPassword": {
       "type": "secureString",
-      "defaultValue": "Test123456",
+      "defaultValue": "Demodb123456",
       "minLength": 8,
       "metadata": {
         "description": "Database administrator password"
